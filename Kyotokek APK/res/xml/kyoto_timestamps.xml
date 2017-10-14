@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/kyoto_settings" android:key="@string/lynx_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+  <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_enable_timestamps" android:key="@string/lynx_enable_timestamps_key" android:summary="@string/lynx_enable_timestamps_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_random_timestamps" android:key="@string/lynx_random_timestamps_key" android:summary="@string/lynx_random_timestamps_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.KikListPreference android:enabled="true" android:entries="@array/lynx_timestamps" android:title="@string/lynx_custom_timestamps" android:key="@string/lynx_custom_timestamps_key" android:summary="@string/lynx_custom_timestamps_summary" android:entryValues="@array/lynx_timestamps_values" kik:pref_divider="top" />
+	</PreferenceScreen>

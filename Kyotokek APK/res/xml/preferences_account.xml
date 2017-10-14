@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/title_your_account_info"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+    <lynx.bliss.widget.preferences.UsernamePreference android:title="@string/title_kik_username" android:key="kik.username" kik:pref_divider="none" />
+    <lynx.bliss.widget.preferences.KikEmailPreference android:title="@string/title_email" android:key="kik.change.email" android:inputType="textEmailAddress" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.NamePreference android:enabled="true" android:title="@string/title_name" android:key="kik.name" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.PasswordPreference android:enabled="true" android:title="@string/change_password" android:key="kik.change.password" kik:pref_divider="full_bottom|top" />
+    <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" />
+    <lynx.bliss.widget.preferences.ClearPaymentMethodPreference android:enabled="true" android:title="@string/clear_saved_card_title" android:key="kik.clear.payment" kik:pref_divider="full_bottom|full_top" />
+    <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" />
+    <lynx.bliss.widget.preferences.ResetKikPreference android:title="@string/title_logout" android:key="kik.reset.app" kik:pref_divider="full_bottom|full_top" />
+   <lynx.bliss.widget.preferences.JIDPref android:enabled="true" android:title="@string/lynx_jid" kik:pref_divider="top" />
+</PreferenceScreen>

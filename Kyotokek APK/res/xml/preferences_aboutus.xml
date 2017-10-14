@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/title_help_about_us"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+ <lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_about" android:key="kik.licenses" kik:pref_divider="top" />
+<lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_disclaimer" android:key="kik.licenses" kik:pref_divider="top" />
+<lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_faq" android:key="kik.licenses" kik:pref_divider="top" />
+<lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_changelog" android:key="kik.licenses" kik:pref_divider="top" />
+<lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="Web"/>
+  <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Kyotokek Website" android:key="kik.help">
+ <intent android:action="android.intent.action.VIEW" android:data="https://www.google.com" />
+    </lynx.bliss.widget.preferences.HelpPreference>
+<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_credstab" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/hidden_opl"  />
+</PreferenceScreen>
