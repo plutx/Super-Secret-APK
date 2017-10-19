@@ -11,7 +11,7 @@
             <lynx.bliss.widget.PullListView android:layout_gravity="top" android:id="@id/conversation_list" android:background="?bg2_LYNX" android:layout_width="fill_parent" android:layout_height="fill_parent" android:smoothScrollbar="true" style="@style/KikListView" />
         </lynx.bliss.widget.PullToRevealView>
     </FrameLayout>
-    <FrameLayout android:id="@id/conversations_topbar" android:tag="binding_2" android:background="@color/lynx_red" android:layout_width="fill_parent" android:layout_height="@dimen/native_topbar_height">
+    <FrameLayout android:id="@id/conversations_topbar" android:tag="binding_2" android:background="@color/kyotokek_mpurple" android:layout_width="fill_parent" android:layout_height="@dimen/native_topbar_height">
         <ImageView android:layout_gravity="center|left" android:id="@id/topbar_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:src="@drawable/img_navbar_logo" />
         <ImageView android:layout_gravity="center|right" android:tint="@color/kyotokek_mgreen" android:id="@id/button_settings" android:background="?selectableItemBackgroundBorderless" android:layout_width="@dimen/native_topbar_height" android:layout_height="@dimen/native_topbar_height" android:src="@drawable/ic_settings" android:scaleType="center" />
         <include android:layout_gravity="bottom" android:id="@id/navbar_underline" android:layout_width="fill_parent" android:layout_height="@dimen/navbar_underline_height" layout="@layout/navbar_underline" />
