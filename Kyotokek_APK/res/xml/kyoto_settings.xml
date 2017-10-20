@@ -7,9 +7,10 @@
    <lynx.bliss.widget.preferences.FaqPref android:enabled="true" android:title="@string/lynx_faq" kik:pref_divider="top" />
 	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_general" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_general"  />
 	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_appearance" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_appearance"  />
+	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_privacy" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_privacy"  />
 	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_chatoptions" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_chatoptions"  />
 	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_media" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_media"  />
-	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_timestamps" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_privacy"  />
-	<lynx.bliss.widget.preferences.KikBasePreferenceScreen  android:title="@string/kyoto_smileys" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_timestamps"  />
+	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_timestamps" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_timestamps"  />
+	<lynx.bliss.widget.preferences.KikBasePreferenceScreen  android:title="@string/kyoto_smileys" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_smileys"  />
 	<lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_others" kik:pref_divider="none" kik:pref_icon="@drawable/ic_settings_chat" kik:preference_screen="@xml/kyoto_others"  />
 </PreferenceScreen>
