@@ -3,24 +3,24 @@
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
   <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="Info"/> <lynx.bliss.widget.preferences.IncognitoProfilePreference android:enabled="false" android:title="What exactly is Kyotokek?" android:key="fuck.you" android:summary="Kyotokek is a retheme of Lynx Bliss (Made and Published by Rab respectively), which implements everything that was great about previous modified Kik clients with tons of features to enhance your experience added as a bonus. Go give them a try!" />
   <lynx.bliss.widget.preferences.KikEmptyPreference android:title="Credits"/>
-   <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Kiyoshi [Creator &#38; Supreme Overlord]" android:key="kik.help" android:summary="&quot;Whatever it is you want me to do, I won't do it.&quot;">
+   <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Kiyo [Creator &#38; Supreme Overlord]" android:key="kik.help" android:summary="&quot;Whatever it is you want me to do, I won't do it.&quot;">
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/_kiyoshi_/profile" />
     </lynx.bliss.widget.preferences.HelpPreference>
-    <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="MYB [Co-Creator]" android:key="kik.help" android:summary="&quot;dab&quot;">
+    <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="MYB [Co-Creator]" android:key="kik.help" 
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/hidden_account/profile" />
     </lynx.bliss.widget.preferences.HelpPreference>
 	<lynx.bliss.widget.preferences.KikEmptyPreference android:title="Developers" />	
-	 <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Blade [Lead Dev... ONLY Dev.]" android:key="kik.help" android:summary="I made the settings work. PS: Java fucking sucks. PPS: Do NOT pm me asking about mods.">
+	 <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Blade [Lead Dev... ONLY Dev.]" android:key="kik.help" android:summary="I made the settings work. PS: Java fucking sucks. PPS: DON'T pm me asking about mods.">
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/SIR.INC/profile" />
     </lynx.bliss.widget.preferences.HelpPreference>
 <lynx.bliss.widget.preferences.KikEmptyPreference android:title="Themers/UI Design" />
-     <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Tori [Theming/Tester]" android:key="kik.help" android:summary="She's an interesting person. Just don't let her steal your wine. ;) ">
+     <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Tori [Theming & Editor]" android:key="kik.help" android:summary="She's an interesting person. Just don't let her steal your wine. ;) ">
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/AngelWings998/profile" />
 	</lynx.bliss.widget.preferences.HelpPreference>
-	<lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Shieldzee [UI/Theming/Icon Creationist]" android:key="kik.help" android:summary="He's certified for digital design. No, seriously.">
+	<lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="Shieldzee [Icon Design & UI]" android:key="kik.help" android:summary="He's certified for digital design. No, seriously.">
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/shieldzee/profile" />
 	</lynx.bliss.widget.preferences.HelpPreference>
-     <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="FireFoxWolf [Tester]" android:key="kik.help" android:summary="Pearl point!">
+     <lynx.bliss.widget.preferences.HelpPreference android:enabled="true" android:title="FireFoxWolf [Themer & Group Management]" android:key="kik.help" android:summary="Pearl point!">
         <intent android:action="android.intent.action.VIEW" android:data="kik://users/FireFoxWolf/profile" />
 	</lynx.bliss.widget.preferences.HelpPreference>
 <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="true" android:title="Groupchats" />

@@ -2015,18 +2015,79 @@ zxzKarnage - Moral Support"</string>
 	<string name="kyoto_smileys">Smileys</string>
 	<string name="kyoto_others">Debugging/Bot Settings</string>
 	<string name="kyoto_credstab">Kyotokek Team</string>
-    <string name="kyoto_faq">dab</string>
-    <string name="kyoto_about">EDIT</string>
-	<string name="kyoto_disclaimer">Disclaimer Text (We\'ll copy paste this one)</string>
+    <string name="kyoto_faq">What is Kyotokek?
+1a) Kyotokek is a modified version of Kik that runs on stock v11.26, with tons of extra features and nit-bits added in as a bonus.
+
+2) Who is behind Kyotokek?
+2a)Refer to the "Credits" tab for a complete list of everyone who actively contributes/contributed to Kyotokek. 
+
+3) Where can I find a complete list of features?
+3a) Our website will have a complete list of features and will be linked somewhere. Probably.
+
+4) How did you guys make Kyotokek?
+4a) Notepad++, IntelliJ, Apk Editor Pro, Apktool, Github, Photoshop, GIMP, and TON of coffee. And with the kindness and support from everyone on the team. ;)
+
+5) Is Kyotokek safe?
+5a) If your question is if Kyotokek will give you malware, then no. The app is completely safe in that regard. 
+ 
+6) How can I get Kyotokek or more information?
+6a)Join the official Kyotokek group and ask nicely, OR visit our website. Most of the information is hosted there. :)
+
+7) How can I become a Kyotokek developer or contribute to the project?
+7a) Simply put, you can\'t. If we would like you on the project, you will know it, and we will know it. However, if you would like to contribute to Kyotokek you can either leave us a request from our website for a future implementation or join the official group to help answer people\'s questions regarding the mod. (See Question 13.)
+
+8) Can I request a new Theme Color or Font to be added to Kyotokek?
+8a) A Font Changer and a Theme Selector aren\'t currently implemented, but we do have a few ideas stirring around. Stay tuned!
+
+9) Can I PM a Kyotokek dev for help with something?
+9a) It\'s not recommended. See if you can get help by leaving a message in the official Kyotokek group to get help before PM\'ing us about a question.
+
+10) Does the Team make any money from Kyotokek?
+10a) Yes! We make a small percentage of money from ad links on our website. Ads will never be hosted inside of Kyotokek.
+
+11) Groups titled "Just You" keep popping up. Why does this keep happening and what is it?
+11a) It is a bug caused from Kik and not from our end. The bug originally started popping up back when version 8 of Kik first came out, and in some cases still can occur. It can be triggered when Do Not Disturb is activated and someone adds you to a group.
+
+12) How do I notify you guys of a bug I found?
+12a) Check the "Known Bugs" tab under "Help & About". Is it a bug we already know about? If not, join the official Kyotokek group and leave us a detailed message of the bug in the group and tell us as much as you can about it. Does force closing the app fix it? Make sure to give us as much information as possible so we will be able to fix it in a future update.
+
+13) I have an idea/suggestion/comment about Kyotokek. Who can I message to tell it to?
+13a) Join the official Kyotokek group and leave it as a message. OR you can leave a request on our website. We will see it. Please don\'t PM a Dev unless there\'s an issue. (See Question 9.)
+
+14) Someone said they made Kyotokek, how do I know if they\'re lying or not?
+14a) Kyotokek devs and contributors are listed in the "Kyotokek Team" section. If the person isn\'t listed there, then they probably didn\'t work on Kyotokek.
+
+15) I found someone with a special icon that isn\'t a Kyotokek Dev, who are they?
+15a) There could be multiple reasons why they could have an icon beside their profile picture, though if you downloaded Kyotokek from another source other than the website this could be the cause. It is recommended that you always download apps from the official website of that specific app. It would also be recommended that you uninstall Kyotokek if you downloaded it from any third party sources for your own safety. Official Kyotokek releases can be found at www.kyotokek.ml :)
+
+16) How old are you guys?
+16a) That information is irrelevant.
+
+
+17) Is Kyotokek in any way affiliated with any other Modded Kiks like Matrik, Pikek, or dorcusKek?
+17a)  No. Kyotokek is not affiliated with any other projects at the time of the first release and as of writing this. However, we do have a few ideas for collaborative projects with other Devs and Teams, though it is ultimately up to them in the end if they would be comfortable with us either: 1) Starting some sort of project with them, and 2) Whether or not they would be okay with us having having free access to any existing projects as part of their official team. However, Kyotokek was largely inspired by dorcusKek and Night so you may see similarities between the two in Kyotokek.
+	 
+18) How did Kyotokek Start?
+18a) Check the About section to find out~
+
+19) Will there ever be future updates for Kyotokek?
+19a) Yes! We have a bunch of ideas for new updates planned. Stay tuned! 
+
+20) I want to start my own modded Kik. Can you help me?
+21a) Creating your own app is hard. There\'s multiple ways to do it, but it all sums up to what modifications you\'re looking to make. If you\'re looking to change a few colors and make Kik feel more personal, or wishing to add your own mods such as custom timestamps or a font changer, there are ways to do it. A good place to start would be to find out how to decompile and recompile APK files, which you can figure out through a simple google search. Although we can\'t tell you everything, there is an app that can help you get started with making your own modified Kik client. And can be found here: https://drive.google.com/file/d/0B1to4snhCsf4QkZYREowQVFabUU/view (Keep in mind this app was NOT developed by anyone on the Kyotokek team nor endorsed by us. Use at your own risk.)
+</string>
+    <string name="kyoto_about">Kyotokek is a project that originally was never intended to happen. It actually started out as as a simple few messages when a friend of Kiyo, Kuugo, had made a joke by taking people\'s names and attaching "Kik" at the end of them. One of those happened to be "KiyoKik." After going back and forth with it, the name "KyotoKik" eventually came to mind. And so after long thought of pondering exactly how a Kik like that would work, eventually, the project just kind of came into existence. Renamed "Kyotokek." With Kuugo making the original concept icon and Kiyo messing around with the files, Kiyo decided to officially begin development of the project in July of 2017. With the addition of Blade, Ethan, Tori, Brandon, and later Bre in October, Kyotokek began to gain traction and a team of awesome developers, themers, icon creationists, and coffee addicts. Kyotokek now serves as a thank you to one of the best friends that someone could ask for, and a symbol of past hardships alike. Kyotokek not only symbolizes the act of prevailing over the ones who wished to hold you down, but also as a symbol that you don\'t have to be an ass or an elitist to be apart of a modding community either. With that being said, we hope you enjoy Kyotokek as much as we enjoyed bringing it to you. ;) 
+	Love, 
+	-The Kyotokek Team </string>
+	<string name="kyoto_disclaimer">Kyotokek developers, Kyotokek contributors, and Kyotokek distributors will be collectively known as \"us\" and \"we.\" By using Kyotokek you acknowledge that Kyotokek is not officially endorsed, supported, sponorsed, or otherwise affiliated with Kik Interactive or Kik Messenger. By using Kyotokek you acknowledge that Kyotokek is not the exact same application as Kik Messenger. By using Kyotokek you acknowledge that Kik Messenger is made by Kik Interactive. By using Kyotokek you acknowledge that we are not affiliated or associated in any way with any variant of Kyotokek. We will not be held accountable, responsible, or at fault for any use, misuse, or abuse originating from Kyotokek. Kik Interactive owns 100% of the rights to Kik Messenger. By using Kyotokek you also agree to all Kik Interactive terms that apply to Kik Messenger. Kyotokek does not encourage malicious behavior and will cooperate with Kik Interactive as needed and make any reasonable effort to help deter any abuse that occurs while using Kyotokek or any variants. All rights are reserved by Kik Interactive and using any modified Kik Messenger is done so at your own risk. By using Kyotokek you agree to this entire agreement. We also reserve the right to modify this agreement at any time without notice.</string>
 	<string name="kyoto_changelog">Don\'t edit this yet, we\'ll wait until the first stable release.</string>
-	<string name="kyoto_fuckyou">placeholder</string>
 	<string name="kyoto_update">Don\'t edit</string>
 	<string name="kyoto_thanks">placeholder</string>
 	<string name="kyoto_abouttitle">About Kyotokek</string>
 	<string name="kyoto_disclaimertitle">Disclaimer</string>
 	<string name="kyoto_faqtitle">Frequently Asked Questions</string>
 	<string name="kyoto_changelogtitle">Changelog</string>
-	<string name="kyoto_fuckyoutitle">placeholder</string>
-	<string name="kyoto_websitetitle">placeholder</string>
-	<string name="kyoto_thankstitle">placeholder</string>
+	<string name="kyoto_websitetitle">Kyotokek Website</string>
+	<string name="kyoto_thankstitle">Special Thanks</string>
+	<string name="kyoto_privacy">Privacy</string>
 </resources>
