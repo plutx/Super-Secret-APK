@@ -230,15 +230,6 @@
     <color name="bg2_LYNX_amoled">#ff000000</color>
     <color name="subtitles_LYNX_light">#ff555555</color>
     <color name="subtitles_LYNX_dark">#ff555555</color>
-	 <color name="netored">#ffcd0000</color>
-    <color name="netoblack">#ff070707</color>
-    <color name="netowhite">#ffb3b3b3</color>
-    <color name="netopink">#fff17c8e</color>
-    <color name="kinkygrey">#ff101010</color>
-    <color name="kinkyblack">#ff000000</color>
-    <color name=".no_u">#ff000000</color>
-    <color name="kinkyfab">#99ff0000</color>
-    <color name="kinkytool">#ff303030</color>
 	<color name="kyotokek_mgreen">#ff388b83</color>
 	<color name="kyotokek_mpurple">#ff9c27b0</color>
 </resources>
