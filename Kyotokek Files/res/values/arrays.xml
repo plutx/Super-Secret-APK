@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autoplay_video_options">
+        <item>@string/wifi_only</item>
+        <item>@string/wifi_and_cellular</item>
+        <item>@string/never_autoplay_videos</item>
+    </string-array>
+    <string-array name="chat_bubble_colors">
+        <item>@string/Blue</item>
+        <item>@string/Green</item>
+        <item>@string/Silver</item>
+        <item>@string/Gold</item>
+        <item>@string/Pink</item>
+        <item>@string/Purple</item>
+        <item>@string/Orange</item>
+        <item>@string/Red</item>
+    </string-array>
+    <string-array name="chat_bubble_values">
+        <item>out_message_selector_blue</item>
+        <item>out_message_selector_green</item>
+        <item>out_message_selector_silver</item>
+        <item>out_message_selector_yellow</item>
+        <item>out_message_selector_pink</item>
+        <item>out_message_selector_violet</item>
+        <item>out_message_selector_orange</item>
+        <item>out_message_selector_red</item>
+    </string-array>
+    <string-array name="led_colors">
+        <item>@string/None</item>
+        <item>@string/Red</item>
+        <item>@string/Blue</item>
+        <item>@string/Green</item>
+        <item>@string/White</item>
+    </string-array>
+    <string-array name="led_values">
+        <item>00000000</item>
+        <item>ffff0000</item>
+        <item>ff0000ff</item>
+        <item>ff00ff00</item>
+        <item>ffffffff</item>
+    </string-array>
+    <string-array name="prefetch_video_options">
+        <item>@string/wifi_only</item>
+        <item>@string/wifi_and_cellular</item>
+        <item>@string/never</item>
+    </string-array>
+    <string-array name="refreshDeviceListForNewSurface">
+        <item>LG-H340</item>
+    </string-array>
+    <string-array name="lynx_receipts">
+        <item>Stealth</item>
+        <item>Delivered</item>
+        <item>Normal</item>
+    </string-array>
+    <string-array name="lynx_bg">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Amoled</item>
+    </string-array>
+    <string-array name="lynx_wb_length">
+        <item>Long</item>
+        <item>Short</item>
+    </string-array>
+    <string-array name="lynx_wb_length_values">
+        <item>Long_LYNX</item>
+        <item>Short_LYNX</item>
+    </string-array>
+    <string-array name="lynx_timestamps">
+        <item>Just now</item>
+        <item>Terrorist attack</item>
+        <item>Pearl harbor</item>
+        <item>"Hitler's birthday"</item>
+        <item>The end of the world</item>
+        <item>Friday the 13th</item>
+        <item>"Valentine's day (1669)"</item>
+        <item>April fools (1920)</item>
+        <item>Saint patricks day</item>
+        <item>Christmas day (2005)</item>
+        <item>New years eve (1800)</item>
+        <item>Christmas day (2016)</item>
+        <item>New years eve (2017)</item>
+        <item>Independence day</item>
+        <item>Satan (1666)</item>
+        <item>Sign of the devil (666)</item>
+        <item>Halloween</item>
+        <item>Sixety Nine (iPhone)</item>
+        <item>Sixety Nine (Android)</item>
+        <item>Wish EST</item>
+        <item>Wish CST</item>
+        <item>Wish MST</item>
+        <item>Wish PST</item>
+        <item>Weed EST</item>
+        <item>Weed CST</item>
+        <item>Weed MST</item>
+        <item>Weed PST</item>
+    </string-array>
+    <string-array name="lynx_timestamps_values">
+        <item>lynx_future</item>
+        <item>lynx_terrorist</item>
+        <item>lynx_pearl</item>
+        <item>lynx_hitlerbday</item>
+        <item>lynx_apoc</item>
+        <item>lynx_bad_luck</item>
+        <item>lynx_valday</item>
+        <item>lynx_fools</item>
+        <item>lynx_spday</item>
+        <item>lynx_christmas</item>
+        <item>lynx_newyr</item>
+        <item>lynx_christmas_a</item>
+        <item>lynx_newyr_a</item>
+        <item>lynx_indpnceday</item>
+        <item>lynx_hallow_devil</item>
+        <item>lynx_hallow_devil_ancient</item>
+        <item>lynx_hallow</item>
+        <item>lynx_sex_iphone</item>
+        <item>lynx_sex_android</item>
+        <item>lynx_wish_est</item>
+        <item>lynx_wish_cst</item>
+        <item>lynx_wish_mst</item>
+        <item>lynx_wish_pst</item>
+        <item>lynx_weed_est</item>
+        <item>lynx_weed_cst</item>
+        <item>lynx_weed_mst</item>
+        <item>lynx_weed_pst</item>
+    </string-array>
+    <string-array name="lynx_lurk_mode">
+        <item>Message</item>
+        <item>Toast</item>
+    </string-array>
+    <string-array name="lynx_lurk_checkmark">
+        <item>Heavy</item>
+        <item>Normal</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="lynx_lurk_count">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+</resources>
