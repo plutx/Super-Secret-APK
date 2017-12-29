@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/kyoto_settings" android:key="@string/lynx_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+   <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_privacy_mode" android:key="@string/lynx_privacy_mode_key" android:summary="@string/lynx_privacy_mode_summary" kik:pref_divider="top" />
+   <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_hide_message_text" android:key="@string/lynx_hide_message_text_key" android:summary="@string/lynx_hide_message_text_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_hide_message_username" android:key="@string/lynx_hide_message_username_key" android:summary="@string/lynx_hide_message_username_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_hide_message_icon" android:key="@string/lynx_hide_message_icon_key" android:summary="@string/lynx_hide_message_icon_summary" kik:pref_divider="none" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_square_message_icon" android:key="@string/lynx_square_message_icon_key" android:summary="@string/lynx_square_message_icon_summary" kik:pref_divider="none" />
+	</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textColor="#fff62222" android:id="@id/viewLyrics" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="View Lyrics" />
+    <Button android:textColor="#fff62222" android:id="@id/shareLyrics" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Share Lyrics" />
+    <Button android:textColor="#fff62222" android:id="@id/saveLyrics" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Save Lyrics to device" />
+</LinearLayout>

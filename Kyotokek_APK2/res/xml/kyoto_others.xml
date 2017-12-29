@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/kyoto_settings" android:key="@string/lynx_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+  <lynx.bliss.widget.preferences.JIDPref android:enabled="true" android:title="@string/lynx_jid" kik:pref_divider="top" />
+  <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="Bot Settings:" kik:pref_divider="top" />
+  <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_read" android:key="@string/lynx_auto_read_key" android:summary="@string/lynx_auto_read_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_reply" android:key="@string/lynx_auto_reply_key" android:summary="@string/lynx_auto_reply_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.customAutoReply_LYNX android:enabled="true" android:title="@string/lynx_custom_autoreply" android:summary="@string/lynx_custom_autoreply_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_type" android:key="@string/lynx_auto_type_key" android:summary="@string/lynx_auto_type_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_enable_group_trolls" android:key="@string/lynx_enable_group_trolls_key" android:summary="@string/lynx_enable_group_trolls_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_meme" android:key="@string/lynx_auto_meme_key" android:summary="@string/lynx_auto_meme_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_rememe" android:key="@string/lynx_auto_rememe_key" android:summary="@string/lynx_auto_rememe_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_annoy" android:key="@string/lynx_auto_annoy_key" android:summary="@string/lynx_auto_annoy_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_auto_nudes" android:key="@string/lynx_auto_nudes_key" android:summary="@string/lynx_auto_nudes_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_pirate_talk" android:key="@string/lynx_pirate_talk_key" android:summary="@string/lynx_pirate_talk_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_skynet" android:key="@string/lynx_skynet_key" android:summary="@string/lynx_skynet_summary" kik:pref_divider="top" />
+	<lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="Lurk Settings" kik:pref_divider="top" />
+     <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_lurk_exposer" android:key="@string/lynx_lurk_exposer_key" android:summary="@string/lynx_lurk_exposer_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.KikListPreference android:enabled="true" android:entries="@array/lynx_lurk_mode" android:title="@string/lurk_exposer_mode" android:key="@string/lurk_exposer_mode_key" android:summary="@string/lurk_exposer_mode_summary" android:entryValues="@array/lynx_lurk_mode" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.KikListPreference android:enabled="true" android:entries="@array/lynx_lurk_count" android:title="@string/lynx_lurker_count" android:key="@string/lynx_lurker_count_key" android:summary="@string/lynx_lurker_count_summary" android:entryValues="@array/lynx_lurk_count" kik:pref_divider="top" />
+	<lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="Debugging/Error Junk" kik:pref_divider="top" />
+	<lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="@string/lynx_custom_crash" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_copy_error_log" android:key="@string/lynx_copy_error_log_key" android:summary="@string/lynx_copy_error_log_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_select_and_scroll_error_message" android:key="@string/lynx_select_and_scroll_error_message_key" android:summary="@string/lynx_select_and_scroll_error_message_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_enable_custom_title" android:key="@string/lynx_enable_custom_title_key" android:summary="@string/lynx_enable_custom_title_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_set_all_caps" android:key="@string/lynx_set_all_caps_key" android:summary="@string/lynx_set_all_caps_summary" kik:pref_divider="top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_light_error_background_color" android:key="@string/lynx_light_error_background_color_key" android:summary="@string/lynx_light_error_background_color_summary" kik:pref_divider="full_top" />
+    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_dark_error_text_color" android:key="@string/lynx_dark_error_text_color_key" android:summary="@string/lynx_dark_error_text_color_summary" kik:pref_divider="full_top" />
+ </PreferenceScreen>
