@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen android:title="@string/title_help_about_us"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
- <lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_about" android:key="kik.licenses" kik:pref_divider="top" />
+ <lynx.bliss.widget.preferences.KyotokekAbout android:enabled="true" android:title="@string/kyotokek_about_title" android:key="about.kyotokek.key" kik:pref_divider="top" />
 <lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_disclaimer" android:key="kik.licenses" kik:pref_divider="top" />
 <lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_faq" android:key="kik.licenses" kik:pref_divider="top" />
 <lynx.bliss.widget.preferences.LicensePreference android:enabled="true" android:title="@string/kyoto_changelog" android:key="kik.licenses" kik:pref_divider="top" />

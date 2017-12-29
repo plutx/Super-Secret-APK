@@ -1863,149 +1863,6 @@ full screen"</string>
     <string name="lynx_hide_video_chat_notifications">Hide video chat notifications</string>
     <string name="lynx_hide_video_chat_notifications_key">lynx.vidchat.notification</string>
     <string name="lynx_hide_video_chat_notifications_summary">Hides the notification if someone tried to video chat you</string>
-	   <string name="about_neto_title">About Neto</string>
-    <string name="about_neto_description">"NetoKik uses basekik made by morty117 which is on stock kik 11.26
-
-NetoKik is a complete redesign of basekik with the inclusion of some mods and testing features.
-
-Join #netokik, #neto, or #netokik2 if you enjoy it."</string>
-    <string name="kinky_changelog_title">Changelog</string>
-    <string name="kinky_changelog_description">"Notice:
-NetoKik is not supported on some older versions of android we are sorry you cannot use the app we will try to fix in a future update :-)
-
-V2 changelog:
-
-* updated to basekik
-
-* added no pull toggle
-
-* added EasterEggs
-
-* fix a ton of bugs there is one in chat info that hasn't been fixed
-
-* Added disable vid chat
-
-* Added enable bios
-
-* Added enable gif favorites
-
-* Added enable new to kik
-
-* Added enable multi photo
-
-* Added enable public group notifications
-
-* Added enable trophy case
-
-* Added enable report message
-
-* Added enable kin
-
-* Added enable blur media
-
-* Added disable admin badges
-
-* overall made theming more sharp and clean
-
-* Redid all icons
-
-* Added overscroll effects and scrollbars to almost all scrollable screens
-
-* added new tabs and menus
-
-more stuff to come..."</string>
-    <string name="faq_title">Frequently asked questions</string>
-    <string name="faq_description">"* How was Netokik done? 
-
-// APK Editor and Notepad++ 
-___________________________________
- * Is Netokik affiliated with Lynx,Matrik,Pikik etc? 
-
-// No Netokik is not affiliated with anyone except for those who are mentioned within the NetoKik Team. 
-___________________________________
- * Will there be future updates? 
-
-// We do not have any current further plans to continue NetoKik at this current time of release. This might change in the future. So keep updated with joining our Public Group #Netokik. 
-___________________________________
- * Can i help with Netokik? 
-
-// If you have something to contribute join #Netokik. 
-___________________________________
- * What do i do if i found a bug? 
-
-// Report the issue to #Netokik and we will try to resolve the issue. 
-___________________________________
- * I have a theme request can you make it? 
-
-// Maybe it depends on if i have time. 
-
-___________________________________
- * Did NetoKik steal from lynx bliss?
- 
- // No nothing from bliss was taken
- 
-___________________________________
- * Why does rab say you stole from bliss?
-  
- // I dont know ask him to prove we stole something
-___________________________________
- * Do you have a life? 
-
-// Some of us do. Some of us dont. Dont discriminate."</string>
-    <string name="neto_login">Logging into NetoKik...</string>
-    <string name="neto_download">Download</string>
-    <string name="neto_download_tab">"Download more NetoKik Themes Below
-
-    __________________________________
-
-
-    With love from
-    kik.me/Netogod
-    kik.me/morty117
-    kik.me/zxzKarnage
-    kik.me/dimitri.232
-    kik.me/anon__Lulz
-    kik.me/.no_u
-    and coye
-
-    __________________________________
-
-   https://www.dropbox.com/sh/rgou0fqal4ra5ty/AAALrGfxrCVFBpMt4wsDFDbda?dl=0"</string>
-    <string name="kinky_thanks_you">"Kinky's thank you list"</string>
-    <string name="kinky_thanks_you_text">"Hey kinky here this is a personal list I made to credit everyone who has helped me.
-   
-* Pluto - he got me into learning how to theme and modding in the first place and taught me a lot.
-   
-* Skrazi. - he taught me how patch nine images work which is a real life saver if anyone out there understands the pain of not knowing how to edit those.
-   
-* banana_kiwi - taught me a lot as well gave me knowledge of one of the most useful things ever
-   
-* Root - he is pretty cool and let me look at some of his files for stuff to see how it worked.
-   
-* Coye - Really good graphic artist he also has been helping me with some java :-3
-   
-* Morty117 - Created base kik which has allowed me to learn a good bit by seeing how he did stuff thanks morty :-p
-   
-* mat aka host - he doesn't know he helped me but back in kminus he made some preferences that i looked at and helped me learn some stuff so thanks @mat
-   
-* Anon__lulz - gave me some cool resources to learn more.
-   
-* Trapalbums - For reviewing my projects and getting my name out there.
-   
-* You - the users for liking my work enough to use it i get messages from people all the time that say they like what i do. Also i help people so if you are starting out and need help hmu @.no_u"</string>
-    <string name="kinky_credits_title">Credits</string>
-    <string name="kinky_credits_summary">"Morty117 - He made basekik which we used as a base for NetoKik the mods he did were disable typing and read recipients.
-
-Kik devs - obviously for making kik but also for making the testing features such as gif favorties, bios, trophy case, etc that were enabled (no they were not stolen from lynx bliss they are in stock kik rab didnt't code them)
-
-.no_u - he made the notification mod as well as no pull and he enabled a lot of a/b testing features
-
-Nerogod - He started netokik and did lots of theming
-
-Coye - Graphic Artist
-
-zxzKarnage - Moral Support"</string>
-    <string name="chat_bubble_color_bright_neto">Neto</string>
 	<string name="kyoto_settings">Kyotokek Settings</string>
 	<string name="kyoto_general">General</string>
     <string name="kyoto_appearance">Appearance</string>
@@ -2076,14 +1933,14 @@ zxzKarnage - Moral Support"</string>
 20) I want to start my own modded Kik. Can you help me?
 21a) Creating your own app is hard. There\'s multiple ways to do it, but it all sums up to what modifications you\'re looking to make. If you\'re looking to change a few colors and make Kik feel more personal, or wishing to add your own mods such as custom timestamps or a font changer, there are ways to do it. A good place to start would be to find out how to decompile and recompile APK files, which you can figure out through a simple google search. Although we can\'t tell you everything, there is an app that can help you get started with making your own modified Kik client. And can be found here: https://drive.google.com/file/d/0B1to4snhCsf4QkZYREowQVFabUU/view (Keep in mind this app was NOT developed by anyone on the Kyotokek team nor endorsed by us. Use at your own risk.)
 </string>
-    <string name="kyoto_about">Kyotokek is a project that originally was never intended to happen. It actually started out as as a simple few messages when a friend of Kiyo, Kuugo, had made a joke by taking people\'s names and attaching "Kik" at the end of them. One of those happened to be "KiyoKik." After going back and forth with it, the name "KyotoKik" eventually came to mind. And so after long thought of pondering exactly how a Kik like that would work, eventually, the project just kind of came into existence. Renamed "Kyotokek." With Kuugo making the original concept icon and Kiyo messing around with the files, Kiyo decided to officially begin development of the project in July of 2017. With the addition of Blade, Ethan, Tori, Brandon, and later Bre in October, Kyotokek began to gain traction and a team of awesome developers, themers, icon creationists, and coffee addicts. Kyotokek now serves as a thank you to one of the best friends that someone could ask for, and a symbol of past hardships alike. Kyotokek not only symbolizes the act of prevailing over the ones who wished to hold you down, but also as a symbol that you don\'t have to be an ass or an elitist to be apart of a modding community either. With that being said, we hope you enjoy Kyotokek as much as we enjoyed bringing it to you. ;) 
+    <string name="kyotokek_about_descriptiontext">Kyotokek is a project that originally was never intended to happen. It actually started out as as a simple few messages when a friend of Kiyo, Kuugo, had made a joke by taking people\'s names and attaching "Kik" at the end of them. One of those happened to be "KiyoKik." After going back and forth with it, the name "KyotoKik" eventually came to mind. And so after long thought of pondering exactly how a Kik like that would work, eventually, the project just kind of came into existence. Renamed "Kyotokek." With Kuugo making the original concept icon and Kiyo messing around with the files, Kiyo decided to officially begin development of the project in July of 2017. With the addition of Blade, Ethan, Tori, Brandon, and later Bre in October, Kyotokek began to gain traction and a team of awesome developers, themers, icon creationists, and coffee addicts. Kyotokek now serves as a thank you to one of the best friends that someone could ask for, and a symbol of past hardships alike. Kyotokek not only symbolizes the act of prevailing over the ones who wished to hold you down, but also as a symbol that you don\'t have to be an ass or an elitist to be apart of a modding community either. With that being said, we hope you enjoy Kyotokek as much as we enjoyed bringing it to you. ;) 
 	Love, 
 	-The Kyotokek Team </string>
 	<string name="kyoto_disclaimer">Kyotokek developers, Kyotokek contributors, and Kyotokek distributors will be collectively known as \"us\" and \"we.\" By using Kyotokek you acknowledge that Kyotokek is not officially endorsed, supported, sponorsed, or otherwise affiliated with Kik Interactive or Kik Messenger. By using Kyotokek you acknowledge that Kyotokek is not the exact same application as Kik Messenger. By using Kyotokek you acknowledge that Kik Messenger is made by Kik Interactive. By using Kyotokek you acknowledge that we are not affiliated or associated in any way with any variant of Kyotokek. We will not be held accountable, responsible, or at fault for any use, misuse, or abuse originating from Kyotokek. Kik Interactive owns 100% of the rights to Kik Messenger. By using Kyotokek you also agree to all Kik Interactive terms that apply to Kik Messenger. Kyotokek does not encourage malicious behavior and will cooperate with Kik Interactive as needed and make any reasonable effort to help deter any abuse that occurs while using Kyotokek or any variants. All rights are reserved by Kik Interactive and using any modified Kik Messenger is done so at your own risk. By using Kyotokek you agree to this entire agreement. We also reserve the right to modify this agreement at any time without notice.</string>
 	<string name="kyoto_changelog">Don\'t edit this yet, we\'ll wait until the first stable release.</string>
 	<string name="kyoto_update">Don\'t edit</string>
 	<string name="kyoto_thanks">placeholder</string>
-	<string name="kyoto_abouttitle">About Kyotokek</string>
+	<string name="kyotokek_about_title">About Kyotokek</string>
 	<string name="kyoto_disclaimertitle">Disclaimer</string>
 	<string name="kyoto_faqtitle">Frequently Asked Questions</string>
 	<string name="kyoto_changelogtitle">Changelog</string>

@@ -875,4 +875,6 @@
     <item type="id" name="saveLyrics">false</item>
     <item type="id" name="Singer">false</item>
     <item type="id" name="Song">false</item>
+	<item type="id" name="kyotokek_about_title">false</item>
+	<item type="id" name="kyotokek_about_descriptiontext">false</item>
 </resources>
