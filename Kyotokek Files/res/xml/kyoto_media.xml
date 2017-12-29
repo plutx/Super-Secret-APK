@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:title="@string/kyoto_settings" android:key="@string/lynx_settings"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
-  <lynx.bliss.widget.preferences.MediaPref android:enabled="true" android:title="@string/lynx_media_options" android:summary="@string/lynx_media_options_summary" kik:pref_divider="top" />
-    <lynx.bliss.widget.preferences.KikEmptyPreference android:enabled="false" android:title="@string/lynx_video_chat" kik:pref_divider="top" />
-    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_hide_video_chat_icon" android:key="@string/lynx_hide_video_chat_icon_key" android:summary="@string/lynx_hide_video_chat_icon_summary" kik:pref_divider="full_bottom" />
-    <lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="@string/lynx_hide_video_chat_notifications" android:key="@string/lynx_hide_video_chat_notifications_key" android:summary="@string/lynx_hide_video_chat_notifications_summary" kik:pref_divider="full_bottom" />
-	<lynx.bliss.widget.preferences.checkbox_LYNX android:enabled="true" android:title="Send Multiple Photos" android:key="lynx.multiphotos" android:summary="Allows you to select multiple photos from gallery" kik:pref_divider="top" />
-	</PreferenceScreen>

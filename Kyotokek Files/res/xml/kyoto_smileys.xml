@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:title="@string/kyoto_settings" android:key="@string/lynx_settings"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
-    <lynx.bliss.widget.preferences.emotesPref android:enabled="true" android:title="@string/lynx_all_emoticons" android:summary="@string/lynx_all_emoticons_summary" kik:pref_divider="top" />
-    <lynx.bliss.widget.preferences.ghostPref android:enabled="true" android:title="@string/lynx_ghost_emoticons" kik:pref_divider="bottom|top" />
-	</PreferenceScreen>
