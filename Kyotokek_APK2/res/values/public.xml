@@ -5598,6 +5598,6 @@
     <public type="id" name="saveLyrics" id="0x7f1003ac" />
     <public type="id" name="Singer" id="0x7f1003ad" />
     <public type="id" name="Song" id="0x7f1003ae" />
-	<public type="id" name="kyotokek_about_title" id="0x7f1003af" />
-	<public type="id" name="kyotokek_about_descriptiontext" id="0x7f100400" />
+    <public type="id" name="kyotokek_about_title" id="0x7f1003af" />
+    <public type="id" name="kyotokek_about_descriptiontext" id="0x7f1003b0" />
 </resources>
