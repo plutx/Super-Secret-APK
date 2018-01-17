@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="Kyotokek"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
+  <kyotokek.Empty android:title="Credits:" />
+  <kyotokek.faq android:enabled="true" android:title="@string/kyotokek_faq_title" android:key="kyotokek.faq" />
+  <kyotokek.disclaimer android:enabled="true" android:title="@string/kyotokek_disclaimer_title" android:key="kyotokek.disclaimer" />
+  <kyotokek.changelog android:enabled="true" android:title="@string/kyotokek_changelog_title" android:key="kyotokek.changelog" />
+  <kyotokek.about android:enabled="true" android:title="@string/kyotokek_about_title" android:key="kyotokek.about" />
+  <kyotokek.thanks android:enabled="true" android:title="@string/kyotokek_thanks_title" android:key="kyotokek.thanks" />
+  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kiyo_title" android:summary="@string/kyotokek_dev_kiyo_summary" android:key="kik.help">
+	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kiyo_data" />
+  </kyotokek.DevPref>
+  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kinky_title" android:summary="@string/kyotokek_dev_kinky_summary" android:key="kik.help">
+	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kinky_data" />
+  </kyotokek.DevPref>
+  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_website_title" android:summary="@string/kyotokek_website_summary" android:key="kik.help">
+	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_website_link" />
+  </kyotokek.DevPref>
+</PreferenceScreen>
