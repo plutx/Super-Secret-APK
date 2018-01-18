@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen android:title="@string/title_help_about_us"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kik="http://schemas.android.com/apk/res-auto">
-  
-  
-  
-  
-  
-  <kyotokek.Empty android:title="Credits:" />
-  <kyotokek.about android:enabled="true" android:title="@string/kyotokek_about_title" android:key="kyotokek.about" />
-  <kyotokek.changelog android:enabled="true" android:title="@string/kyotokek_changelog_title" android:key="kyotokek.changelog" />
-  <kyotokek.thanks android:enabled="true" android:title="@string/kyotokek_thanks_title" android:key="kyotokek.thanks" />
-  <kyotokek.faq android:enabled="true" android:title="@string/kyotokek_faq_title" android:key="kyotokek.faq" />
-   <lynx.bliss.widget.preferences.KikBasePreferenceScreen android:title="@string/kyoto_credstab" kik:pref_divider="top" kik:pref_icon="@drawable/newmessage9" kik:preference_screen="@xml/hidden_opl" kik:topbar_alt_layout="@layout/kik_back_button" />
+    <kyotokek.Empty android:title="Credits:" />
+    <kyotokek.about android:enabled="true" android:title="@string/kyotokek_about_title" android:key="kyotokek.about" />
+    <kyotokek.changelog android:enabled="true" android:title="@string/kyotokek_changelog_title" android:key="kyotokek.changelog" />
+    <kyotokek.thanks android:enabled="true" android:title="@string/kyotokek_thanks_title" android:key="kyotokek.thanks" />
+    <kyotokek.faq android:enabled="true" android:title="@string/kyotokek_faq_title" android:key="kyotokek.faq" />
+    <kyotokek.Tab android:title="@string/kyoto_credstab" kik:preference_screen="@xml/hidden_opl" kik:topbar_alt_layout="@layout/kik_back_button" />
     <kyotokek.disclaimer android:enabled="true" android:title="@string/kyotokek_disclaimer_title" android:key="kyotokek.disclaimer" />
-  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kiyo_title" android:summary="@string/kyotokek_dev_kiyo_summary" android:key="kik.help">
-	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kiyo_data" />
-  </kyotokek.DevPref>
-  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kinky_title" android:summary="@string/kyotokek_dev_kinky_summary" android:key="kik.help">
-	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kinky_data" />
-  </kyotokek.DevPref>
-  <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_website_title" android:summary="@string/kyotokek_website_summary" android:key="kik.help">
-	<intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_website_link" />
-  </kyotokek.DevPref>
-  
-  
-  
-  
+    <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kiyo_title" android:summary="@string/kyotokek_dev_kiyo_summary" android:key="kik.help">
+	  <intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kiyo_data" />
+    </kyotokek.DevPref>
+    <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_dev_kinky_title" android:summary="@string/kyotokek_dev_kinky_summary" android:key="kik.help">
+	  <intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_dev_kinky_data" />
+    </kyotokek.DevPref>
+    <kyotokek.DevPref android:enabled="true" android:title="@string/kyotokek_website_title" android:summary="@string/kyotokek_website_summary" android:key="kik.help">
+	  <intent android:action="android.intent.action.VIEW" android:data="@string/kyotokek_website_link" />
+    </kyotokek.DevPref>
     <lynx.bliss.widget.preferences.TOSPreference android:enabled="true" android:title="@string/title_terms_of_service" android:key="kik.privacy.terms.of.service" kik:pref_divider="none" />
     <lynx.bliss.widget.preferences.PrivacyPolicyPreference android:enabled="true" android:title="@string/title_privacy_policy" android:key="kik.privacy.policy" kik:pref_divider="top" />
     <lynx.bliss.widget.preferences.CommunityGuideLinesPreference android:enabled="true" android:title="@string/title_community_guidelines" android:key="kik.community.guidelines" kik:pref_divider="top">
