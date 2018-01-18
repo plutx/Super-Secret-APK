@@ -1873,7 +1873,7 @@ full screen"</string>
     <string name="kyoto_others">Debugging/Bot Settings</string>
     <string name="kyoto_credstab">Kyotokek Team</string>
     <string name="kyoto_privacy">Privacy</string>
-    <string name="kyotokek_faq_title">"Frequently Asked Questions"</string>
+    <string name="kyotokek_faq_title">"FAQ"</string>
     <string name="kyotokek_faq_description">"What is Kyotokek?
 1a) Kyotokek is a modified version of Kik that runs on stock v11.26, with tons of extra features and nit-bits added in as a bonus.
 
@@ -1884,12 +1884,13 @@ full screen"</string>
 3a) Our website will have a complete list of features and will be linked somewhere. Probably.
 
 4) How did you guys make Kyotokek?
-4a) Notepad++, IntelliJ, Apk Editor Pro, Apktool, Github, Photoshop, GIMP, and TON of coffee. And with the kindness and support from everyone on the team. ;)
+4a) Notepad++, APK Editor Pro, APKTool, Github, Photoshop, GIMP, and TON of coffee. And with the kindness and support from everyone on the team.
 
 5) Is Kyotokek safe?
 5a) If your question is if Kyotokek will give you malware, then no. The app is completely safe in that regard. 
  
 6) How can I get Kyotokek or more information?
+6a)Join the official Kyotokek group and ask nicely, OR visit our website. Most of the information is hosted there. :)
 6a)Join the official Kyotokek group and ask nicely, OR visit our website. Most of the information is hosted there. :)
 
 7) How can I become a Kyotokek developer or contribute to the project?
@@ -1935,15 +1936,15 @@ full screen"</string>
 20) I want to start my own modded Kik. Can you help me?
 21a) Creating your own app is hard. There\'s multiple ways to do it, but it all sums up to what modifications you\'re looking to make. If you\'re looking to change a few colors and make Kik feel more personal, or wishing to add your own mods such as custom timestamps or a font changer, there are ways to do it. A good place to start would be to find out how to decompile and recompile APK files, which you can figure out through a simple google search. Although we can\'t tell you everything, there is an app that can help you get started with making your own modified Kik client. And can be found here: https://drive.google.com/file/d/0B1to4snhCsf4QkZYREowQVFabUU/view (Keep in mind this app was NOT developed by anyone on the Kyotokek team nor endorsed by us. Use at your own risk.)"</string>
     <string name="kyotokek_disclaimer_title">"Disclaimer"</string>
-    <string name="kyotokek_disclaimer_description">"Kyotokek is a project that originally was never intended to happen. It actually started out as as a simple few messages when a friend of Kiyo, Kuugo, had made a joke by taking people\'s names and attaching "Kik" at the end of them. One of those happened to be "KiyoKik." After going back and forth with it, the name "KyotoKik" eventually came to mind. And so after long thought of pondering exactly how a Kik like that would work, eventually, the project just kind of came into existence. Renamed "Kyotokek." With Kuugo making the original concept icon and Kiyo messing around with the files, Kiyo decided to officially begin development of the project in July of 2017. With the addition of Blade, Ethan, Tori, Brandon, and later Bre in October, Kyotokek began to gain traction and a team of awesome developers, themers, icon creationists, and coffee addicts. Kyotokek now serves as a thank you to one of the best friends that someone could ask for, and a symbol of past hardships alike. Kyotokek not only symbolizes the act of prevailing over the ones who wished to hold you down, but also as a symbol that you don\'t have to be an ass or an elitist to be apart of a modding community either. With that being said, we hope you enjoy Kyotokek as much as we enjoyed bringing it to you. ;) 
-Love, 
--The Kyotokek Team"</string>
+    <string name="kyotokek_disclaimer_description">"Kyotokek developers, Kyotokek contributors, and Kyotokek distributors will be collectively known as "us" and "we." By using Kyotokek, you acknowledge that Kyotokek is not officially endorsed, supported, sponsorsed, or otherwise affiliated with Kik Interactive or Kik Messenger. By using Kyotokek, you acknowledge that Kik Messenger is made by Kik Interactive. By using Kyotokek, you acknowledge that we are not affiliated or associated in any way with any variant of Kyotokek unless it is a) hosted on our official website, and b) we personally confirm that said variant was made and producted by us. We will not be held accountable, responsible, or at fault for any use, misuse, or abuse originating from Kyotokek. Kik Interactive owns 100% of the rights to Kik Messenger. By using Kyotokek, you also agree to all Kik Interactive terms that apply to Kik Messenger. Kyotokek developers, Kyotokek contributors, and Kyotokek distributors do not encourage malicious behavior and will cooperate with Kik Interactive as needed and make any reasonable effort to help deter any abuse that occurs while using Kyotokek or any variants. All rights are reserved by Kik Interactive and using any modified variant of Kik Messenger is done so at your own risk. By using Kyotokek acknowledge that you agree to this entire agreement. We also reserve the right to modify this agreement at any time without notice."</string>
     <string name="kyotokek_changelog_title">"Changelog"</string>
     <string name="kyotokek_changelog_description">"Don't edit"</string>
     <string name="kyotokek_about_title">"About Kyotokek"</string>
-    <string name="kyotokek_about_description">"Don't edit"</string>
+    <string name="kyotokek_about_description">"Kyotokek is a project that originally was never intended to happen. It actually started out as as a simple few messages when a friend of Kiyo, Kuugo, had made a joke by taking people\'s names and attaching "Kik" at the end of them. One of those happened to be "KiyoKik." After going back and forth with it, the name "KyotoKik" eventually came to mind. And so after long thought of pondering exactly how a Kik like that would work, eventually, the project just kind of came into existence. Renamed "Kyotokek." With Kuugo making the original concept icon and Kiyo messing around with the files, Kiyo decided to officially begin development of the project in July of 2017. With the addition of Blade, Ethan, Tori, Brandon, and later Bre in October, Kyotokek began to gain traction and a team of awesome developers, themers, icon creationists, and coffee addicts. Kyotokek now serves as a thank you to one of the best friends that someone could ask for, and a symbol of past hardships alike. Kyotokek not only symbolizes the act of prevailing over the ones who wished to hold you down, but also as a symbol that you don\'t have to be an ass or an elitist to be apart of a modding community either. With that being said, we hope you enjoy Kyotokek as much as we enjoyed bringing it to you.
+Love, 
+-The Kyotokek Team"</string>
     <string name="kyotokek_website_title">"Kyotokek Website"</string>
-    <string name="kyotokek_website_summary">"Don't edit"</string>
+    <string name="kyotokek_website_summary">"Visit the website for some more useful information, or to check what's new"</string>
     <string name="kyotokek_website_link">"http://www.kyotokek.ml"</string>
     <string name="kyotokek_thanks_title">"Special Thanks"</string>
     <string name="kyotokek_thanks_description">"Don't edit"</string>
